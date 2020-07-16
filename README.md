@@ -2,6 +2,10 @@
 
 Hola a todos! 👨‍💻
 
-⚡ Ingeniero Técnico en Informática de Gestión
+➖ Ingeniero Técnico en Informática de Gestión
+➖ Técnico Superior en Desarrollo y Análisis de Aplicaciones Informáticas
 
-⚡ Técnico Superior en Desarrollo y Análisis de Aplicaciones Informáticas
+Redes Sociales
+
+🐤 [Twitter](https://twitter.com/Manuel_Entrena)
+📷 [Instagram](https://www.instagram.com/manuel_entrena)
