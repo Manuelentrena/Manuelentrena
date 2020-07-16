@@ -1,6 +1,4 @@
-# MANUEL ENTRENA - FULL STACK DEVELOPER
-
-Hola a todos! 👨‍💻
+# MANUEL ENTRENA - FULL STACK DEVELOPER 👨‍💻
 
 ⚡ Ingeniero Técnico en Informática de Gestión  
 
