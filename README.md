@@ -1,4 +1,4 @@
-# MANUEL ENTRENA - FULL STACK DEVELOPER 👨‍💻
+# MANUEL ENTRENA - WEB DEV 👨‍💻
 
 ⚡ Ingeniero Técnico en Informática de Gestión  
 
