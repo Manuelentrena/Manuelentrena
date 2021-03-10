@@ -32,10 +32,10 @@
     Twitter
    </a>
    📷 <a href="https://www.instagram.com/manuel_entrena" target="blank" style='margin-right:4px'>
-    Twitter
+    Instagram
    </a>
    🎮 <a href="https://steamcommunity.com/id/faydum/" target="blank" style='margin-right:4px'>
-    Twitter
+    Steam
    </a>
 </p>
 
