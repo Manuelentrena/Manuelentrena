@@ -7,7 +7,6 @@
    Soy <strong>Desarrollador Frontend Junior</strong> con 2 años experiencia.
    <br />
    <br />
-   <br />
    Mi Stack tecnológico es:
    <br />
    <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389883/GitHub%20Perfil/Sin_t%C3%ADtulo-1_Mesa_de_trabajo_1_gu0kym.png"/> Html
