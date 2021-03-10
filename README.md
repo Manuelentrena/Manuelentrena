@@ -15,9 +15,6 @@
    <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389885/GitHub%20Perfil/Sin_t%C3%ADtulo-1-04_eqqlx1.png"/> React
    <br />
    <br />
-   ¡Revisa mi contenido 👇!
-   <br />
-   <br />
    Mi Formación académica:
    <br />
    ⚡ Ingeniero Técnico en Informática de Gestión</li>
