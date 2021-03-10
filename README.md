@@ -7,7 +7,7 @@
    Soy <strong>Desarrollador Frontend Junior</strong> con 2 años experiencia.
    <br />
    <br />
-   Mi Stack tecnológico es:
+   Mi <strong>Stack tecnológico</strong> es:
    <br />
    <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389883/GitHub%20Perfil/Sin_t%C3%ADtulo-1_Mesa_de_trabajo_1_gu0kym.png"/> Html
    <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389896/GitHub%20Perfil/Sin_t%C3%ADtulo-1-02_bgoyto.png"/> Css
@@ -15,7 +15,7 @@
    <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389885/GitHub%20Perfil/Sin_t%C3%ADtulo-1-04_eqqlx1.png"/> React
    <br />
    <br />
-   Mi Formación académica:
+   Mi <strong>Formación académica</strong> es:
    <br />
    ⚡ Ingeniero Técnico en Informática de Gestión</li>
    <br />
