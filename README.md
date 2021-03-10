@@ -4,8 +4,6 @@
 </p>
 
 <p align="center">
-   <br />
-   <br />
    Soy <strong>Desarrollador Frontend Junior</strong> con 2 años experiencia.
    <br />
    <br />
