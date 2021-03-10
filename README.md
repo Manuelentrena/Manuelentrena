@@ -3,7 +3,22 @@
    <h1 align="center">¡Hey 👋🏻! Soy Manuel Entrena 👨🏻‍💻</h1>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Front end Junior</strong> con 2 años experiencia.<br />Mi Stack tecnológico es<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+   Soy <strong>Desarrollador Frontend Junior</strong> con 2 años experiencia.
+   <br />
+   <br />
+   <br />
+   Mi Stack tecnológico es
+   <br />
+   <br />
+   <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389883/GitHub%20Perfil/Sin_t%C3%ADtulo-1_Mesa_de_trabajo_1_gu0kym.png"/> Html
+   <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389896/GitHub%20Perfil/Sin_t%C3%ADtulo-1-02_bgoyto.png"/> Css
+   <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389888/GitHub%20Perfil/Sin_t%C3%ADtulo-1-03_kovdtl.png"/> JavaScript
+   <img align="center" width="15" src="https://res.cloudinary.com/manuelentrena/image/upload/v1615389885/GitHub%20Perfil/Sin_t%C3%ADtulo-1-04_eqqlx1.png"/> React
+   <br />
+   <br />
+   ¡Revisa mi contenido 👇!
+</p>
 
 ⚡ Ingeniero Técnico en Informática de Gestión  
 
