@@ -3,7 +3,7 @@
    <h1 align="center">¡Hey 👋🏻! Soy Manuel Entrena 👨🏻‍💻</h1>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Fronted Junior</strong> con 2 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Front end Junior</strong> con 2 años experiencia.<br />Mi Stack tecnológico es<br />¡Revisa mi contenido 👇!</p>
 
 ⚡ Ingeniero Técnico en Informática de Gestión  
 
