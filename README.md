@@ -25,7 +25,18 @@
    ⚡ Técnico Superior en Desarrollo y Análisis de Aplicaciones Informáticas</li>
    <br />
    <br />
-   🐤 [Twitter](https://twitter.com/Manuel_Entrena) 📷 [Instagram](https://www.instagram.com/manuel_entrena) 🎮 [Steam](https://steamcommunity.com/id/faydum/)
+</p>
+
+<p align="center">
+   🐤 <a href="https://twitter.com/Manuel_Entrena" target="blank" style='margin-right:4px'>
+    Twitter
+   </a>
+   📷 <a href="https://www.instagram.com/manuel_entrena" target="blank" style='margin-right:4px'>
+    Twitter
+   </a>
+   🎮 <a href="https://steamcommunity.com/id/faydum/" target="blank" style='margin-right:4px'>
+    Twitter
+   </a>
 </p>
 
 
