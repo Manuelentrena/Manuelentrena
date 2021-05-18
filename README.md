@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   Soy <strong>Desarrollador Frontend Junior</strong> con 2 años experiencia.
+   Soy <strong>Desarrollador Frontend</strong>.
    <br />
    <br />
    Mi <strong>Stack tecnológico</strong> es:
