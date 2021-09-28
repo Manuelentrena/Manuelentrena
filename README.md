@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://res.cloudinary.com/manuelentrena/image/upload/v1632816108/GitHub%20Perfil/banner_Linkendin_zortga.png" />
+   <img align="center" width="1500" src="https://res.cloudinary.com/manuelentrena/image/upload/v1632816108/GitHub%20Perfil/banner_Linkendin_zortga.png" />
    <h1 align="center">¡Hey 👋🏻! Soy Manuel Entrena 👨🏻‍💻</h1>
 </p>
 
