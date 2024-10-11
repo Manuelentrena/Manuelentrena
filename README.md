@@ -31,9 +31,6 @@
    📷 <a href="https://www.instagram.com/manuel_entrena" target="blank" style='margin-right:4px'>
     Instagram
    </a>
-   🎮 <a href="https://steamcommunity.com/id/faydum/" target="blank" style='margin-right:4px'>
-    Steam
-   </a>
 </p>
 
 
